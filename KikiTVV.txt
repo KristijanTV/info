@@ -32,8 +32,8 @@ https://2uus.short.gy/Televizija_Zelina.m3u8
 #EXTINF:0 tvg-id="N1 (BIH)" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/N1_TV.png" group-title="Bosna & Hercegovina", N1 (BIH)
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0|http-user-agent=Mozilla/5.0
 
-#EXTINF:0 tvg-id="AL Jazeera Balkans" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Bosna/Al_Jazeera_Balkans.png" group-title="Bosna & Hercegovina", Al Jazeera Balkans
-https://2uus.short.gy/N1_BIH.m3u8
+#EXTINF:0 tvg-id="AL Jazeera Balkans" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Bosna/Al_Jazeera_Balkans.png" group-title="Bosna & Hercegovina", Al Jazeera Balkans*
+https://live-hls-web-ajb.getaj.net/AJB/04.m3u8
 
 
 
@@ -52,11 +52,11 @@ https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/chunklist
 #EXTINF:0 tvg-id="Narodna TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/NarodnaTV.png" group-title="Srbija", Narodna TV
 https://2uus.short.gy/NarodnaTV.m3u8
 
-#EXTINF:0 tvg-id="Pink" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/Pink_TV.png" group-title="Srbija", Pink
-https://2uus.short.gy/Pink.m3u8
+#EXTINF:0 tvg-id="Pink" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/Pink_TV.png" group-title="Srbija", Pink*
+https://live.rednet.rs/providus/pink1_hq/index.m3u8
 
-#EXTINF:0 tvg-id="Red TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/RED_TV.png" group-title="Srbija", Red TV
-https://2uus.short.gy/Red_TV.m3u8
+#EXTINF:0 tvg-id="Red TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/RED_TV.png" group-title="Srbija", Red TV*
+https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8
 
 #EXTINF:0 tvg-id="RTS 1" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/RTS_1.png" group-title="Srbija", RTS 1
 https://webtvstream.bhtelecom.ba/hls19/rts1_1200.m3u8|http-user-agent=Mozilla/5.0
@@ -107,17 +107,17 @@ https://webtvstream.bhtelecom.ba/hls18/nat_geo_wild_1200.m3u8|http-user-agent=Mo
 #EXTINF:0 tvg-id="Banovina" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Banovina.png" group-title="Glazbeni", Banovina
 https://2uus.short.gy/Banovina_TV.m3u8
 
-#EXTINF:0 tvg-id="BravoTV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Bravo!.png" group-title="Glazbeni", Bravo TV
-https://2uus.short.gy/BravoTV.m3u8
+#EXTINF:0 tvg-id="BravoTV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Bravo!.png" group-title="Glazbeni", Bravo TV*
+https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
 
-#EXTINF:0 tvg-id="CMC TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/CMC.png" group-title="Glazbeni", CMC TV
-https://2uus.short.gy/CMC.m3u8
+#EXTINF:0 tvg-id="CMC TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/CMC.png" group-title="Glazbeni", CMC TV*
+https://stream.cmctv.hr:49998/cmc/live.m3u8
 
-#EXTINF:0 tvg-id="Extra TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Extra_TV.png" group-title="Glazbeni", Extra TV
-https://2uus.short.gy/ExtraTV.m3u8
+#EXTINF:0 tvg-id="Extra TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Extra_TV.png" group-title="Glazbeni", Extra TV*
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 
-#EXTINF:0 tvg-id="IDJTV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/IDJTV.png" group-title="Glazbeni", IDJTV
-https://2uus.short.gy/IDJTV.m3u8
+#EXTINF:0 tvg-id="IDJTV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/IDJTV.png" group-title="Glazbeni", IDJTV*
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream?i=RDI2JeMY3nHIgip4zLrN3A&a=dXAKXF5w1pWVF0M03UdvOhyc2sa61HUgz-5J_fEN3NR-jgLgSl6kiAR-0DTE4gIZgdUUeggyLwPcwv2eZr01pqFxbUCCW-fwlVcaKu8cYqthceE21OsH3wj53wI4sE4zsRi1IwaW4qkXLRX1Cd0DZD3t2ALyAE5C9kA79BKRveb8YEZnNBm2blGagm7sgCCQp2YISd9w97Y1Rk3xE26PjjqlFQ_z5xKTvt9UFa7u2ZTV4spnOtnq8OV5OubfYG4f&sp=idjtv&u=idjtv&session=91330c47-bbc2-26dc-3b1b-445fcd4f0802&player=m3u8|http-user-agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Klape i tambure" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Klape_i_%20tambure_TV.png" group-title="Glazbeni", Klape i tambure
 https://2uus.short.gy/Klape&tambure.m3u8
