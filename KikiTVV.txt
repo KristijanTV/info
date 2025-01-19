@@ -1,0 +1,132 @@
+﻿#EXTM3U
+
+
+#EXTINF:0 tvg-id="N1 (HR)" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/N1_TV.png" group-title="Hrvatska", N1 (HR)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="HRT 1" tvg-logo="" group-title="Hrvatska", HRT 1
+https://webtvstream.bhtelecom.ba/hls16/hrt1_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="HRT 2" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/HRT_2.png" group-title="Hrvatska", HRT 2
+https://webtvstream.bhtelecom.ba/hls16/hrt2_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="HRT 3" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/HRT_3.png" group-title="Hrvatska", HRT 3
+https://webtvstream.bhtelecom.ba/hls16/hrt3_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="RTL" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/RTL.png" group-title="Hrvatska", RTL 
+https://2uus.short.gy/RTL.m3u8
+
+#EXTINF:0 tvg-id="RTL 2" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/RTL_2.png" group-title="Hrvatska", RTL 2
+https://2uus.short.gy/RTL2.m3u8
+
+#EXTINF:0 tvg-id="TV Zelina" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/Televizija_Zelina.png" group-title="Hrvatska", Televizija Zelina
+https://2uus.short.gy/Televizija_Zelina.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="N1 (BIH)" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/N1_TV.png" group-title="Bosna & Hercegovina", N1 (BIH)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="AL Jazeera Balkans" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Bosna/Al_Jazeera_Balkans.png" group-title="Bosna & Hercegovina", Al Jazeera Balkans
+https://2uus.short.gy/N1_BIH.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="N1 (SR)" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Hrvatska/N1_TV.png" group-title="Srbija", N1 (SR)
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Srbija", Bloomberg Adria
+https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/chunklist_w2010269332_b6192000.m3u8
+
+#EXTINF:0 tvg-id="Narodna TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/NarodnaTV.png" group-title="Srbija", Narodna TV
+https://2uus.short.gy/NarodnaTV.m3u8
+
+#EXTINF:0 tvg-id="Pink" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/Pink_TV.png" group-title="Srbija", Pink
+https://2uus.short.gy/Pink.m3u8
+
+#EXTINF:0 tvg-id="Red TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/RED_TV.png" group-title="Srbija", Red TV
+https://2uus.short.gy/Red_TV.m3u8
+
+#EXTINF:0 tvg-id="RTS 1" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Srbija/RTS_1.png" group-title="Srbija", RTS 1
+https://webtvstream.bhtelecom.ba/hls19/rts1_1200.m3u8|http-user-agent=Mozilla/5.0
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="Cinema TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Filmski/CinemaTV.png" group-title="Filmski", Cinema TV
+https://webtvstream.bhtelecom.ba/hls10/cinema_tv_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="Star Channel" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/main/Filmski/Star_Channel.png" group-title="Filmski", Star Channel
+https://webtvstream.bhtelecom.ba/hls18/star_channel_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="Star Crime" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/main/Filmski/Star_Crime.png" group-title="Filmski", Star Crime
+https://webtvstream.bhtelecom.ba/hls18/star_crime_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="Star Life" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/main/Filmski/Star_Life.png" group-title="Filmski", Star Life
+https://webtvstream.bhtelecom.ba/hls18/star_life_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="Star Movies" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/main/Filmski/Star_Movies.png" group-title="Filmski", Star Movies
+https://webtvstream.bhtelecom.ba/hls18/star_movies_1200.m3u8|http-user-agent=Mozilla/5.0
+
+
+
+
+
+
+#EXTINF:0 tvg-id="24 Kitchen" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Zabavni/24_Kitchen.png" group-title="Dokumentarni & Zabavni", 24 Kitchen
+https://webtvstream.bhtelecom.ba/hls18/24_kitchen_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="National Geographic" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Dokumentarni/National_Geographic.png" group-title="Dokumentarni & Zabavni", National Geographic
+https://webtvstream.bhtelecom.ba/hls13/national_geographic_1200.m3u8|http-user-agent=Mozilla/5.0
+
+#EXTINF:0 tvg-id="National Geographic Wild" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Dokumentarni/National_Geographic_Wild.png" group-title="Dokumentarni & Zabavni", National Geographic Wild
+https://webtvstream.bhtelecom.ba/hls18/nat_geo_wild_1200.m3u8|http-user-agent=Mozilla/5.0
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="Banovina" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Banovina.png" group-title="Glazbeni", Banovina
+https://2uus.short.gy/Banovina_TV.m3u8
+
+#EXTINF:0 tvg-id="BravoTV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Bravo!.png" group-title="Glazbeni", Bravo TV
+https://2uus.short.gy/BravoTV.m3u8
+
+#EXTINF:0 tvg-id="CMC TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/CMC.png" group-title="Glazbeni", CMC TV
+https://2uus.short.gy/CMC.m3u8
+
+#EXTINF:0 tvg-id="Extra TV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Extra_TV.png" group-title="Glazbeni", Extra TV
+https://2uus.short.gy/ExtraTV.m3u8
+
+#EXTINF:0 tvg-id="IDJTV" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/IDJTV.png" group-title="Glazbeni", IDJTV
+https://2uus.short.gy/IDJTV.m3u8
+
+#EXTINF:0 tvg-id="Klape i tambure" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Glazbeni/Klape_i_%20tambure_TV.png" group-title="Glazbeni", Klape i tambure
+https://2uus.short.gy/Klape&tambure.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="RTL Kockica" tvg-logo="https://raw.githubusercontent.com/KristijanTV/info/refs/heads/main/Djecji/RTL_Kockica.png" group-title="Dječji", RTL Kockica
+https://2uus.short.gy/RTL_Kockica.m3u8
