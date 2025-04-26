@@ -4,7 +4,7 @@
     <display-name lang="bs">( AMC )</display-name>
   </channel>
   <channel id="AXN">
-    <display-name lang="hr">( AXN )</display-name>
+    <display-name lang="hr">(AXN)</display-name>
   </channel>
   <programme start="20250426004500 +0200" stop="20250426021500 +0200" channel="( AMC )">
     <title lang="bs">Max Payne</title>
