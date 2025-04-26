@@ -1,261 +1,286 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="AMC">
-    <display-name lang="bs">( AMC )</display-name>
+  <channel id="AXN">
+    <display-name lang="hr">( AXN )</display-name>
   </channel>
-  <programme start="20250426004500 +0200" stop="20250426021500 +0200" channel="AMC">
-    <title lang="bs">Max Payne</title>
-    <desc lang="bs">│ Film ││ Krimi / Drama / Triler / Akcija │
-Tri godine nakon stravičnog gubitka obitelji, njujorški policajac Max Payne baca se u potragu za ubojicom koji mu je uništio život. Na osvetničkom putu pridružuje mu se ruska mafijašica Mona Sax.</desc>
+  <programme start="20250427014000 +0200" stop="20250427030000 +0200" channel="AXN">
+    <title lang="hr">Gran Hotel</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 14 ││ Serija │ Povijesna │
+Španjolska dramska serija usredotočena je na Grand hotel, aristokratsko odmaralište za bogate i moćne s početka 20. stoljeća, gdje mladić Julio uzima posao kako bi otkrio što se krije iza tajanstvenog nestanka svoje sestre Cristine. Zajedno s kćeri vlasnika hotela susreće se s brojnim tajnama i zajedno otkrivaju mrežu spletki i požude iza luksuzne fasade hotela.</desc>
   </programme>
-  <programme start="20250426021500 +0200" stop="20250426041000 +0200" channel="AMC">
-    <title lang="bs">Alien: Savez</title>
-    <desc lang="bs">│ Film ││ Horor / Triler / Fantazija │
-Posada kolonizacijskog broda Convenant uživa u miru koji neće dugo potrajati. Nakon što pronađu mjesto koje ostavlja impresiju nepoznatog raja, vrlo brzo će shvatiti da je u pitanju opasan svijet iz kojeg što prije moraju pobjeći.</desc>
+  <programme start="20250427030000 +0200" stop="20250427034500 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 9 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250426041000 +0200" stop="20250426060000 +0200" channel="AMC">
-    <title lang="bs">Priča o ženama</title>
-    <desc lang="bs">│ Film ││ Romantika / Drama │
-U Francuskoj pod nacističkom okupacijom kućanica pokušava spojiti kraj s krajem kada se njezin suprug vrati kući nakon ranjavanja u ratu.</desc>
+  <programme start="20250427034500 +0200" stop="20250427043000 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 10 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250426060000 +0200" stop="20250426063000 +0200" channel="AMC">
-    <title lang="bs">Close Up</title>
-    <desc lang="bs">│ Sezona: 1 ││ Epizoda: 25 ││ Snimanje filma / Biograf │
-Emisija "Close Up" gledateljima pred malim ekranima donosi intervjue s najvećim hollywoodskim zvijezdama, ali i zanimljivosti vezane uz svijet filma.</desc>
+  <programme start="20250427043000 +0200" stop="20250427051500 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 11 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250426063000 +0200" stop="20250426065500 +0200" channel="AMC">
-    <title lang="bs">Close Up</title>
-    <desc lang="bs">│ Sezona: 1 ││ Epizoda: 16 ││ Snimanje filma / Biograf │
-Emisija "Close Up" gledateljima pred malim ekranima donosi intervjue s najvećim hollywoodskim zvijezdama, ali i zanimljivosti vezane uz svijet filma.</desc>
+  <programme start="20250427051500 +0200" stop="20250427061000 +0200" channel="AXN">
+    <title lang="hr">Nezaboravna</title>
+    <desc lang="hr">│ Sezona: 4 Epizoda: 1 ││ Serija │ Krimi │
+Carrie Wells je bivša policijska detektivka koja ima rijetku sposobnost. Njezino rijetko medicinsko stanje omogućuje joj zapamtiti gotovo sve što je doživjela i vizualno se prisjetiti istoga. Vraća se na policijski posao i koristi svoju sposobnost kako bi riješila brojne slučajeve ubojstava. Međutim, postoji jedan slučaj koji joj je najvažniji. To je ubojstvo njezine sestre...</desc>
   </programme>
-  <programme start="20250426065500 +0200" stop="20250426085000 +0200" channel="AMC">
-    <title lang="bs">Nasilju je kraj</title>
-    <desc lang="bs">│ Film ││ Drama / Triler │
-Mike je uspješan holivudski producent nasilnih filmova. No onda sam doživi ekstremno nasilje, nestane, pridruži se nekim latinoamerčkim vrtlarima i preispita vlastiti život.</desc>
+  <programme start="20250427061000 +0200" stop="20250427065500 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 10 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250426085000 +0200" stop="20250426102500 +0200" channel="AMC">
-    <title lang="bs">Pustolovina rabina Jacoba</title>
-    <desc lang="bs">│ Film ││ Komedija / Krimi / Avantura / Drama │
-Netrpeljivi Francuz prisiljen je glumiti popularnog rabina koji je u bijegu od skupine ubojica i policije.</desc>
+  <programme start="20250427065500 +0200" stop="20250427074000 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 11 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250426102500 +0200" stop="20250426121000 +0200" channel="AMC">
-    <title lang="bs">Sapphire Blue</title>
-    <desc lang="bs">│ Film ││ Akcija / Obitelj / Romantika / Fantazija / Misterija / Drama │
-Gwen je upravo otkrila da je posljednja članica tajnog Kruga dvanaestorice koji putuju kroz vrijeme. Sada mora žonglirati sa stalnim putovanjima u prošlost, svojim odnosima s Gideonom i otkrivanjem mračnih tajni koje okružuju Krug.</desc>
+  <programme start="20250427074000 +0200" stop="20250427082500 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 12 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250426121000 +0200" stop="20250426135500 +0200" channel="AMC">
-    <title lang="bs">Priča o Ip Manu 3</title>
-    <desc lang="bs">│ Film ││ Krimi / Akcija / Biograf / Drama │
-Kad banda brutalnih gangstera predvođena nepoštenim investitorom preuzmu lokalnu školu, majstor Ip prisiljen je suprostaviti se.</desc>
+  <programme start="20250427082500 +0200" stop="20250427091000 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 13 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250426135500 +0200" stop="20250426154500 +0200" channel="AMC">
-    <title lang="bs">Pripravnici</title>
-    <desc lang="bs">│ Film │
-Dva nezaposlena trgovca odluče se dokazati kroz pripravništvo u Googleu, gdje se moraju nadmetati s mlađim kolegama.</desc>
+  <programme start="20250427091000 +0200" stop="20250427095500 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 14 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250426154500 +0200" stop="20250426180000 +0200" channel="AMC">
-    <title lang="bs">Robin Hood: Princ lopova</title>
-    <desc lang="bs">│ Film ││ Drama / Romantika / Akcija │
-Legenda o Robinu Hoodu jedna je od najpoznatijih u Engleskoj, a film "Robin Hood: Princ lopova" objašnjava i zašto. Nakon što Robin biva zarobljen tijekom križarskoga rata, zajedno s Azeemom uspijeva pobjeći u Englesku. U međuvremenu saznaje da je njegov otac ubijen što u Robinu izaziva bijes i želju za osvetom. Bježi u šumu gdje postaje vođa prognanih seljaka..</desc>
+  <programme start="20250427095500 +0200" stop="20250427113000 +0200" channel="AXN">
+    <title lang="hr">Gran Hotel</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 15 ││ Serija │ Dramska │
+Španjolska dramska serija usredotočena je na Grand hotel, aristokratsko odmaralište za bogate i moćne s početka 20. stoljeća, gdje mladić Julio uzima posao kako bi otkrio što se krije iza tajanstvenog nestanka svoje sestre Cristine. Zajedno s kćeri vlasnika hotela susreće se s brojnim tajnama i zajedno otkrivaju mrežu spletki i požude iza luksuzne fasade hotela.</desc>
   </programme>
-  <programme start="20250426180000 +0200" stop="20250426202500 +0200" channel="AMC">
-    <title lang="bs">2012</title>
-    <desc lang="bs">│ Film ││ Avantura / Akcija / Katastrofa / Fantazija / Naučna Fantastika │
-Maje, jedna od najfascinantnijih civilizacija, za sobom su ostavili zloslutno proročanstvo. Prema njihovom kalendaru 2012. godine dogodit će se smak svijeta.</desc>
+  <programme start="20250427113000 +0200" stop="20250427125500 +0200" channel="AXN">
+    <title lang="hr">Gran Hotel</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 16 ││ Serija │ Povijesna │
+Španjolska dramska serija usredotočena je na Grand hotel, aristokratsko odmaralište za bogate i moćne s početka 20. stoljeća, gdje mladić Julio uzima posao kako bi otkrio što se krije iza tajanstvenog nestanka svoje sestre Cristine. Zajedno s kćeri vlasnika hotela susreće se s brojnim tajnama i zajedno otkrivaju mrežu spletki i požude iza luksuzne fasade hotela.</desc>
   </programme>
-  <programme start="20250426202500 +0200" stop="20250426220000 +0200" channel="AMC">
-    <title lang="bs">Matorani 2</title>
-    <desc lang="bs">│ Film ││ Komedija │
-Nakon što se sa svojom porodicom preselio u rodni gradić da bi više vremena provodio s prijateljima i djecom, Leni shvata da ga, između starih i novih siledžija, šizofrenih vozača autobusa, pijanih policajca na skijama i 400 kostimiranih "padobranaca" na žurkama, prati nešto ludo. Cjelokupna glumačka plejada iz prvog dijela filma, donosi nam još smijeha.</desc>
+  <programme start="20250427125500 +0200" stop="20250427134500 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 5 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250426220000 +0200" stop="20250426232000 +0200" channel="AMC">
-    <title lang="bs">Događaj</title>
-    <desc lang="bs">│ Film ││ Drama / Misterija / Fantazija │
-Elliot Moore radi kao profesor u jednoj srednjoj školi. Kada New Yorkom zavlada stravična bolest koja natjera ljude da počine samoubojstvo, Eliot zajedno sa svojom ženom i nekolicinom drugi ljudi pokušava pobjeći strašnoj bolesti i u isto vrijeme otkriti što se krije iza tog nesvakidašnjeg fenomena..</desc>
+  <programme start="20250427134500 +0200" stop="20250427143500 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 6 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250426232000 +0200" stop="20250427011500 +0200" channel="AMC">
-    <title lang="bs">Inferno</title>
-    <desc lang="bs">│ Film ││ Krimi / Triler / Akcija / Avantura / Drama │
-Nakon što se probudi u bolničkom krevetu u Firenci bez sećanja u vezi ičega što se dogodilo u poslednjih nekoliko dana, Robert Langdon se odjednom nađe na meti ubice. Uz pomoć doktorke Siene Broks i dobrog poznavanja simbola, Langdon će istovremeno pokušati da pobegne, ali i da reši najintrigantniju zagonetku sa kojom se do sada susreo..</desc>
+  <programme start="20250427143500 +0200" stop="20250427152000 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 7 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250427011500 +0200" stop="20250427024500 +0200" channel="AMC">
-    <title lang="bs">Pritajeno zlo: Život poslije smrti</title>
-    <desc lang="bs">│ Film ││ Fantazija / Akcija / Avantura / Drama / Horor │
-Četvrti nastavak izuzetno uspešnog serijala, "Pritajeno zlo: život posle" ponovo je zasnovan na neverovatno popularnom serijalu video-igrica. U svetu poharanom virusnom infekcijom koja svoje žrtve pretvara u zombije, Alis (Mila Jovović) nastavlja svoju potragu za preživelima koje odvodi u bezbednost. Njena smrtonosna bitka sa "Kišobran korporacijom" dostiže nove visine, ali Alis dobija i neočekivanu pomoć starog prijatelja. Novi trag koji obećava bezbedno mesto od zombija vodi ih u Los Anđeles, ali kada stignu u grad shvataju da je preplavljen zombijima, a Alis i njeni drugovi stupaju u smrtonosnu zamku.</desc>
+  <programme start="20250427152000 +0200" stop="20250427161000 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 8 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250427024500 +0200" stop="20250427041000 +0200" channel="AMC">
-    <title lang="bs">Usamljeni zaštitnik</title>
-    <desc lang="bs">│ Film ││ Krimi / Drama / Akcija / Romantika / Triler │
-Nakon bijega iz zatvora, Sam Gillen traži mjesto za skrivanje. Mladu udovicu Clydie muči prijetnja korumpiranih građevinara. Kada se Sam sprijatelji s Clydeovim sinom Mookiejem, on se počne povezivati s obitelji i pronalazi novu svrhu u životu, odlučujući se boriti da ih zaštiti.</desc>
+  <programme start="20250427161000 +0200" stop="20250427170000 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 9 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250427041000 +0200" stop="20250427060000 +0200" channel="AMC">
-    <title lang="bs">Šest metaka</title>
-    <desc lang="bs">│ Film ││ Krimi / Drama / Borilačke veštine / Triler │
-Bivšeg plaćenika, stručnjaka za otmice, unajmi majstor borilačkih vještina da mu pomogne naći kćer koja je nestala u Moldaviji. Ne prezajući ni pred čim, dvojica ratnika neće stati dok kriminalci krivi za gubitak nedužnih života ne budu za to kažnjeni.</desc>
+  <programme start="20250427170000 +0200" stop="20250427190000 +0200" channel="AXN">
+    <title lang="hr">Spider-Man: Povratak kući</title>
+    <desc lang="hr">│ Film │ Akcija │
+Nakon obavljanja zadatka s Osvetnicima, Peter Parker se vraća kući pun doživljaja. Ipak, njegov povratak svakodnevici ubrzo prekida pojava novoga zlikovca, Vulturea.</desc>
   </programme>
-  <programme start="20250427060000 +0200" stop="20250427060500 +0200" channel="AMC">
-    <title lang="bs">Zoom In</title>
-    <desc lang="bs">│ Sezona: 1 ││ Epizoda: 174 ││ Snimanje filma │
-Ako ste veliki ljubitelj Hollywooda i snimanja filmova, emisija "Zoom in" pravi je izbor za vas jer otkriva gledateljima kako se snimaju najveći hollywoodski filmovi. Zavirite zajedno s nama iza kulisa produkcije najpoznatijih filmova i saznajte sve o budžetu, cijeloj ekipi potrebnoj za snimanje i glumcima.</desc>
+  <programme start="20250427190000 +0200" stop="20250427210000 +0200" channel="AXN">
+    <title lang="hr">Spider-Man: Daleko od kuće</title>
+    <desc lang="hr">│ Film │ Akcija │
+Peter Parker odlučuje otići na srednjoškolsku ekskurziju po Europi kako bi se odmorio od trauma iz nedavne prošlosti koje ga i dalje proganjaju. Na putovanju ga Nick Fury moli za pomoć i Spiderman ponovo mora krenuti u akciju spašavanja svijeta.</desc>
   </programme>
-  <programme start="20250427060500 +0200" stop="20250427061500 +0200" channel="AMC">
-    <title lang="bs">Zoom In</title>
-    <desc lang="bs">│ Snimanje filma │
-Ako ste veliki ljubitelj Hollywooda i snimanja filmova, emisija "Zoom in" pravi je izbor za vas jer otkriva gledateljima kako se snimaju najveći hollywoodski filmovi. Zavirite zajedno s nama iza kulisa produkcije najpoznatijih filmova i saznajte sve o budžetu, cijeloj ekipi potrebnoj za snimanje i glumcima.</desc>
+  <programme start="20250427210000 +0200" stop="20250427225500 +0200" channel="AXN">
+    <title lang="hr">Zločesti dečki zauvijek</title>
+    <desc lang="hr">│ Film │ Akcija │
+Sedamnaest godina nakon zadnjeg zajedničkog slučaja, Mike Lowery i Marcus Burnett vraćaju se na policijsku scenu. Ovoga puta moraju uhvatiti udovicu mafijaša Benita koja uz pomoć sina Armanda planira pravi osvetnički pohod.</desc>
   </programme>
-  <programme start="20250427061500 +0200" stop="20250427064000 +0200" channel="AMC">
-    <title lang="bs">Close Up</title>
-    <desc lang="bs">│ Sezona: 1 ││ Epizoda: 10 ││ Snimanje filma / Biograf │
-Emisija "Close Up" gledateljima pred malim ekranima donosi intervjue s najvećim hollywoodskim zvijezdama, ali i zanimljivosti vezane uz svijet filma.</desc>
+  <programme start="20250427225500 +0200" stop="20250428011500 +0200" channel="AXN">
+    <title lang="hr">Zločesti dečki 2</title>
+    <desc lang="hr">│ Film │ Akcija │
+Film "Zločesti dečki 2" donosi priču o dvojici policajaca, Mikeu Lowreyju (Will Smith) i Marcusu Burnettu (Martin Lawrence) koji vode istragu o pojavljivanju droge, točnije ecstasyja u Miamiju. Istraživajući svoj zadatak, došli su do opasnog narkobosa koji drži pod kontrolom sva trgovanja drogom. Da stvar bude kompliciranija, Marcusova sestra Syd koja je agentica također ima svoj tajni zadatak...</desc>
   </programme>
-  <programme start="20250427064000 +0200" stop="20250427071000 +0200" channel="AMC">
-    <title lang="bs">Close Up</title>
-    <desc lang="bs">│ Sezona: 1 ││ Epizoda: 8 ││ Snimanje filma / Biograf │
-Emisija "Close Up" gledateljima pred malim ekranima donosi intervjue s najvećim hollywoodskim zvijezdama, ali i zanimljivosti vezane uz svijet filma.</desc>
+  <programme start="20250428011500 +0200" stop="20250428025000 +0200" channel="AXN">
+    <title lang="hr">Gran Hotel</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 15 ││ Serija │ Dramska │
+Španjolska dramska serija usredotočena je na Grand hotel, aristokratsko odmaralište za bogate i moćne s početka 20. stoljeća, gdje mladić Julio uzima posao kako bi otkrio što se krije iza tajanstvenog nestanka svoje sestre Cristine. Zajedno s kćeri vlasnika hotela susreće se s brojnim tajnama i zajedno otkrivaju mrežu spletki i požude iza luksuzne fasade hotela.</desc>
   </programme>
-  <programme start="20250427071000 +0200" stop="20250427090000 +0200" channel="AMC">
-    <title lang="bs">Drugo stanje Bridget Jones</title>
-    <desc lang="bs">│ Film ││ Drama / Romantika / Komedija │
-Njezin život nikad nije bio jednostavan. Na 43. rođendan Bridget Jones u zoru zove majka samo kako bi je podsjetila da joj biološki sat otkucava i da joj je krajnje vrijeme da ima djecu. Kasnije tog dana Bridget odlazi na sprovod Daniela Cleavera (Hugh Grant), za kojeg se pretpostavlja da je stradao u zrakoplovnoj nesreći. Na sprovodu ugleda svog bivšeg dečka Marka Darcyja (Colin Firth) s njegovom novog suprugom Camillom. Bridget sada radi kao TV producentica te je dobra prijateljica s voditeljicom vijesti Mirandom (Sarah Solemani), koja joj predloži da proslave njezin rođendan. Bridget je ipak odbije jer je ima druge planove, no kada se oni izjalove, naposljetku ostane doma sama. Bridget shvati da sve dok je sama zapravo može uživati u životu te zajedno s Mirandom odlazi na glazbeni festival na kojem je prijatelji izazovu da spava s prvim muškarcem kojeg upozna kako bi preboljela Marka i prekinula celibat. Neprikladno odjevena za festival, Bridget završi u blatu iz kojeg je izvuče stranac, koji se predstavi kao Jack (Patrick Dempsey).</desc>
+  <programme start="20250428025000 +0200" stop="20250428033500 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 12 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250427090000 +0200" stop="20250427102500 +0200" channel="AMC">
-    <title lang="bs">Spy kids 4</title>
-    <desc lang="bs">│ Film ││ Animirani / Komedija / Krimi / Fantazija / Avantura / Akcija │
-Četvrti i posljednji nastavak uspješnog filmskog serijala.</desc>
+  <programme start="20250428033500 +0200" stop="20250428042000 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 13 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250427102500 +0200" stop="20250427120000 +0200" channel="AMC">
-    <title lang="bs">Pilence</title>
-    <desc lang="bs">│ Film ││ Fantazija │
-Džesika Spencer je najljepša i najpopularnija djevojka u školi. Njena najbolja prijateljica April zajedno sa Lulu i Keciom u trgovačkom centru pronađe par drevnih naušnica. Djevojke ne znaju porijeklo čarobnih naušnica, ni ne slute da su pripadale etiopskoj princezi Navi, koja je zamijenila život sa svojom robinjom, ne želeći se udati za čovjeka kog nije voljela. Iako naušnice nisu na prodaju, Džesika ih ukrade. Iduće jutro budi se u tijelu Klajva, a on u njenom tijelu.</desc>
+  <programme start="20250428042000 +0200" stop="20250428050500 +0200" channel="AXN">
+    <title lang="hr">Ritam srca</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 14 ││ Serija │ Dramska │
+Višegeneracijska saga smještena u Alberti u Kanadi, a usredotočena je na obitelj koja zajedno prolazi kroz život u sretnim i teškim vremenima.</desc>
   </programme>
-  <programme start="20250427120000 +0200" stop="20250427132500 +0200" channel="AMC">
-    <title lang="bs">Ace Ventura: Kad priroda zove</title>
-    <desc lang="bs">│ Film ││ Krimi / Akcija / Komedija │
-Ace Ventura, detektiv za životinje, vraća se s duhovne obnove da bi istražio nestanak rijetkog bijelog šišmiša, svete životinje jednog plemena u Africi.</desc>
+  <programme start="20250428050500 +0200" stop="20250428060500 +0200" channel="AXN">
+    <title lang="hr">Bolnica nade</title>
+    <desc lang="hr">│ Sezona: 3 Epizoda: 13 ││ Serija │ Dramska │
+Na putu za vjenčanje sa svojim kolegom Alexom Reidom, Charlie Harris, glavni kirurg jedne bolnice u Torontu, doživi tešku prometnu nesreću i padne u komu. Dok ga njegovi kolege pokušavaju vratiti u život, Charlie shvati da je svjestan svega oko sebe. Također spozna da može komunicirati sa umovima drugih pacijenata u komi.</desc>
   </programme>
-  <programme start="20250427132500 +0200" stop="20250427145500 +0200" channel="AMC">
-    <title lang="bs">Matorani 2</title>
-    <desc lang="bs">│ Film ││ Komedija │
-Nakon što se sa svojom porodicom preselio u rodni gradić da bi više vremena provodio s prijateljima i djecom, Leni shvata da ga, između starih i novih siledžija, šizofrenih vozača autobusa, pijanih policajca na skijama i 400 kostimiranih "padobranaca" na žurkama, prati nešto ludo. Cjelokupna glumačka plejada iz prvog dijela filma, donosi nam još smijeha.</desc>
+  <programme start="20250428060500 +0200" stop="20250428065500 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 8 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250427145500 +0200" stop="20250427165000 +0200" channel="AMC">
-    <title lang="bs">Brzina 2</title>
-    <desc lang="bs">│ Film ││ Avantura / Krimi / Romantika / Triler │
-Ni na kopnu ni na moru nisi siguran. Nakon strave u busu s bombom, Annie Porter (Sandra Bullock) imala je romansu s agentom koji ju je izbavio iz smrtonosne opasnosti, ali opasne situacije u koje ju je nastavljao uvaljivati presudile su njihovoj vezi. Sreću i smirenost pronašla je u vezi s Alexom (Jason Patric), sve do dana kada je doznala da je i on agent i da radi u istom specijalnim odjelu, kao i njezin bivši. Annie je spremna okončati i tu vezu, no Alex je iznenadi romantičnim putovanjem kruzerom na kojem je planira zaprositi. Ali izgleda da Annie romantika jednostavno nije suđena. Umjesto ugodnog boravka na brodu, počinje drama s tankerom punim nafte.</desc>
+  <programme start="20250428065500 +0200" stop="20250428074000 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 9 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250427165000 +0200" stop="20250427183000 +0200" channel="AMC">
-    <title lang="bs">Dan kad je Zemlja stala</title>
-    <desc lang="bs">│ Film ││ Drama / Fantazija / Avantura │
-ZF. Godine 1928. sudjelujući u ekspediciji na snijegom prekrivenoj planini Karakorum u Aziji, planinar (K. Reeves) u ledu zamijeti sferu neobična sjaja. Kad joj se približi i dotakne ju, padne u neobično stanje iz kojeg će se probuditi zbunjen, s ožiljkom na ruci. Devet desetljeća kasnije službenici američke vojske jedne noći hitno mobiliziraju skupinu znanstvenika među kojima je i Helen Benson (J. Connelly). Na tajnom sastanku pod vodstvom državne tajnice Regine Jackson (K. Bates) Helen dozna da se Zemlji velikom brzinom približava zagonetni objekt te da se sve mora pripremiti za mogući sudar. No objekt uspori, a sjajna sfera spušta se u njujorški Central park. Izađe stvorenje koje vrlo brzo poprimi stas odraslog muškarca (K. Reeves) i obrati se Zemljanima... Intrigantna i ekološki naglašeno angažirana fantastična drama redatelja Scotta Derricksona osuvremenjeni je prepravak kultnog istoimenog ZF klasika Roberta Wisea iz 1951. Oba se filma temelje na kratkoj priči "Farewell to the Master" (Oproštaj s gospodarom) američkog ZF pisca Harryja Batesa. U idejnom fokusu suvremene inačice je afirmacija ekološke svijesti i nužnosti zaštite okoliša, jer su život na Zemlji i njegova biološka raznolikost ozbiljno ugroženi. Riječ je o dinamičnom i vizualno dojmljivom ostvarenju koje obiluje atraktivnim specijalnim efektima te u kojem nastupa zvjezdana glumačka postava.</desc>
+  <programme start="20250428074000 +0200" stop="20250428082500 +0200" channel="AXN">
+    <title lang="hr">Navy CIS</title>
+    <desc lang="hr">│ Sezona: 17 Epizoda: 12 ││ Serija │ Krimi │
+NCIS američka je serija o ekipi specijalnih agenata koji traže odgovore na pitanja vezano uz počinjene zločine. U razotkrivanju misterija često im pomaže ostatak kriminalističke službe: forenzički stručnjaci, psiholozi itd. Pratite uzbudljive trenutke ove serije i saznajte jesu li istraženi svi zločini koji su na bilo koji način povezani s marincima ili mornaricom.</desc>
   </programme>
-  <programme start="20250427183000 +0200" stop="20250427200500 +0200" channel="AMC">
-    <title lang="bs">Ljudi u crnom 3</title>
-    <desc lang="bs">│ Film ││ Avantura / Fantazija / Akcija / Misterija / Komedija / Naučna Fantastika │
-Nakon što svetu zapreti opaki vanzemaljac, agent Džej mora da se vrati kroz vreme u 1969. godinu gde se sastaje sa mladim agentom Kejom. Njih dvojica zajedno kreću u borbu protiv Borisa, neprijateljski nastrojenog vanzemaljca, kako bi ga sprečili da uništi Zemlju u budućnosti..</desc>
+  <programme start="20250428082500 +0200" stop="20250428090500 +0200" channel="AXN">
+    <title lang="hr">Spasilačka služba</title>
+    <desc lang="hr">│ Sezona: 8 Epizoda: 6 ││ Serija │ Avanturistička │
+Serija prati ekipu kalifornijskih spasioca koji se svakodnevno suočavaju sa brojnim opasnim i stresnim situacijama. Predvodi ih Mitch Buchannon, koji im je također mentor i prijatelj. Osim brojnih kompliciranih spasilačkih zadataka, ekipa se mora nositi i sa privatnim problemima i ljubavnim zavrzlamama.</desc>
   </programme>
-  <programme start="20250427200500 +0200" stop="20250427220000 +0200" channel="AMC">
-    <title lang="bs">Špijunka</title>
-    <desc lang="bs">│ Film ││ Akcija / Komedija / Krimi │
-Konačno malo akcije. Susan Cooper (Melissa McCarthy) 40-godišnja je agentica CIA-e, koja iz ureda pomaže svojim kolegama na terenu. Pa tako, u zadnjoj akciji asistira agentu Bradleyu Fineu (Jude Law), koji slučajno ubije prodavača oružja Tihomira Boyanova i ne uspije doznati lokaciju kofera u kojem se nalazi nuklearno oružje. Susan otkrije da je Rayna (Rose Byrne), Boyanova kći, kontaktirala Sergija De Lucu, koji ima veze s raznim terorističkim grupama, pa Fine provali u njezin dom, no tamo ga dočeka Rayna i ubije, dok Susan bespomoćna čitavu dramu gleda online iz ureda. Rayna zna identitete tajnih agenata Ricka Forda (Jason Statham) i Karen Walker (Morena Baccarin) pa je sada Susanina šefica Elaine Crocker (Alison Janney) prisiljena dopustiti da Susan, koju nitko iz kriminalnog podzemlja ne pozna, po prvi put krene na teren kao tajna agentica i riješi ovu krizu koja prijeti čitavom svijetu.</desc>
+  <programme start="20250428090500 +0200" stop="20250428095000 +0200" channel="AXN">
+    <title lang="hr">Spasilačka služba</title>
+    <desc lang="hr">│ Sezona: 8 Epizoda: 7 ││ Serija │ Avanturistička │
+Serija prati ekipu kalifornijskih spasioca koji se svakodnevno suočavaju sa brojnim opasnim i stresnim situacijama. Predvodi ih Mitch Buchannon, koji im je također mentor i prijatelj. Osim brojnih kompliciranih spasilačkih zadataka, ekipa se mora nositi i sa privatnim problemima i ljubavnim zavrzlamama.</desc>
   </programme>
-  <programme start="20250427220000 +0200" stop="20250427232500 +0200" channel="AMC">
-    <title lang="bs">Komandos</title>
-    <desc lang="bs">│ Film ││ Avantura / Triler / Akcija │
-John je umirovljeni specijalac koji je iznenađen kada shvati da netko ubija njegove bivše kolege. Međutim ništa ga neće pripremiti na nestanak njegove kćeri Jenny. Kada shvati da iza svega stoji bivši diktator Arius, John će dati sve od sebe da mu uđe u trag i spasi Jenny. Ali, Arius mu ne želi dati kćer dok mu on ne pomogne svrgnuti vlast u južnoameričkoj državi Val Verde, a stvari postanu još gore kada John shvati da za Ariusa radi jedan njegov stari kolega.</desc>
+  <programme start="20250428095000 +0200" stop="20250428103000 +0200" channel="AXN">
+    <title lang="hr">Navy CIS</title>
+    <desc lang="hr">│ Sezona: 17 Epizoda: 12 ││ Serija │ Krimi │
+NCIS američka je serija o ekipi specijalnih agenata koji traže odgovore na pitanja vezano uz počinjene zločine. U razotkrivanju misterija često im pomaže ostatak kriminalističke službe: forenzički stručnjaci, psiholozi itd. Pratite uzbudljive trenutke ove serije i saznajte jesu li istraženi svi zločini koji su na bilo koji način povezani s marincima ili mornaricom.</desc>
   </programme>
-  <programme start="20250427232500 +0200" stop="20250428020000 +0200" channel="AMC">
-    <title lang="bs">Aleksandar Veliki</title>
-    <desc lang="bs">│ Film ││ Avantura / Biograf / Akcija / Drama │
-Grčki general Ptolomej (A. Hopkins) svojim učenicima odluči ispripovjedati priču o slavnom Aleksandru Velikom. Legendarni makedonski kralj, vojskovođa i osvajač sin je odvažnog kralja Filipa Drugog (V. Kilmer) i prelijepe epirske princeze Olimpijade (A. Jolie). Oni su dječaku osigurali najbolje obrazovanje pod paskom slavnog atenskog filozofa Aristotela (C. Plummer), koji je Aleksandru usadio sklonost prema glazbi i poeziji, te u njemu razvio osjećaje hrabrosti i časti. S godinama mladi Aleksandar (C. Farrell) intimnog prijatelja i saveznika stječe u senzibilnom Hefaestionu (J. Leto), a nakon očeve pogibije kao 20-godišnjak preuzima vlast nad zemljom koja se nalazi gotovo u rasulu. Odlučno pokrenuvši vojsku i ugasivši nekoliko pobuna, Aleksandar Makedonski s vremenom postaje zagovornikom bratstva različitih naroda i sjedinjenja kultura Istoka i Zapada. Oženivši se s privlačnom Roxanom (R. Dawson), uskoro s vojskom od 30.000 pješaka i 5.000 konjanika kreće u rat protiv deset puta većeg Perzijskog Carstva.</desc>
+  <programme start="20250428103000 +0200" stop="20250428111500 +0200" channel="AXN">
+    <title lang="hr">Navy CIS</title>
+    <desc lang="hr">│ Sezona: 17 Epizoda: 13 ││ Serija │ Krimi │
+NCIS američka je serija o ekipi specijalnih agenata koji traže odgovore na pitanja vezano uz počinjene zločine. U razotkrivanju misterija često im pomaže ostatak kriminalističke službe: forenzički stručnjaci, psiholozi itd. Pratite uzbudljive trenutke ove serije i saznajte jesu li istraženi svi zločini koji su na bilo koji način povezani s marincima ili mornaricom.</desc>
   </programme>
-  <programme start="20250428020000 +0200" stop="20250428035000 +0200" channel="AMC">
-    <title lang="bs">Šest metaka</title>
-    <desc lang="bs">│ Film ││ Krimi / Drama / Borilačke veštine / Triler │
-Bivšeg plaćenika, stručnjaka za otmice, unajmi majstor borilačkih vještina da mu pomogne naći kćer koja je nestala u Moldaviji. Ne prezajući ni pred čim, dvojica ratnika neće stati dok kriminalci krivi za gubitak nedužnih života ne budu za to kažnjeni.</desc>
+  <programme start="20250428111500 +0200" stop="20250428115500 +0200" channel="AXN">
+    <title lang="hr">Spasilačka služba</title>
+    <desc lang="hr">│ Sezona: 8 Epizoda: 6 ││ Serija │ Avanturistička │
+Serija prati ekipu kalifornijskih spasioca koji se svakodnevno suočavaju sa brojnim opasnim i stresnim situacijama. Predvodi ih Mitch Buchannon, koji im je također mentor i prijatelj. Osim brojnih kompliciranih spasilačkih zadataka, ekipa se mora nositi i sa privatnim problemima i ljubavnim zavrzlamama.</desc>
   </programme>
-  <programme start="20250428035000 +0200" stop="20250428051000 +0200" channel="AMC">
-    <title lang="bs">Događaj</title>
-    <desc lang="bs">│ Film ││ Drama / Misterija / Fantazija │
-Elliot Moore radi kao profesor u jednoj srednjoj školi. Kada New Yorkom zavlada stravična bolest koja natjera ljude da počine samoubojstvo, Eliot zajedno sa svojom ženom i nekolicinom drugi ljudi pokušava pobjeći strašnoj bolesti i u isto vrijeme otkriti što se krije iza tog nesvakidašnjeg fenomena..</desc>
+  <programme start="20250428115500 +0200" stop="20250428124000 +0200" channel="AXN">
+    <title lang="hr">Spasilačka služba</title>
+    <desc lang="hr">│ Sezona: 8 Epizoda: 7 ││ Serija │ Avanturistička │
+Serija prati ekipu kalifornijskih spasioca koji se svakodnevno suočavaju sa brojnim opasnim i stresnim situacijama. Predvodi ih Mitch Buchannon, koji im je također mentor i prijatelj. Osim brojnih kompliciranih spasilačkih zadataka, ekipa se mora nositi i sa privatnim problemima i ljubavnim zavrzlamama.</desc>
   </programme>
-  <programme start="20250428051000 +0200" stop="20250428054000 +0200" channel="AMC">
-    <title lang="bs">Close Up</title>
-    <desc lang="bs">│ Sezona: 1 ││ Epizoda: 13 ││ Snimanje filma / Biograf │
-Emisija "Close Up" gledateljima pred malim ekranima donosi intervjue s najvećim hollywoodskim zvijezdama, ali i zanimljivosti vezane uz svijet filma.</desc>
+  <programme start="20250428124000 +0200" stop="20250428133000 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 8 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250428054000 +0200" stop="20250428055000 +0200" channel="AMC">
-    <title lang="bs">Zoom In</title>
-    <desc lang="bs">│ Sezona: 1 ││ Epizoda: 137 ││ Snimanje filma │
-Ako ste veliki ljubitelj Hollywooda i snimanja filmova, emisija "Zoom in" pravi je izbor za vas jer otkriva gledateljima kako se snimaju najveći hollywoodski filmovi. Zavirite zajedno s nama iza kulisa produkcije najpoznatijih filmova i saznajte sve o budžetu, cijeloj ekipi potrebnoj za snimanje i glumcima.</desc>
+  <programme start="20250428133000 +0200" stop="20250428141500 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 9 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250428055000 +0200" stop="20250428060000 +0200" channel="AMC">
-    <title lang="bs">Zoom In</title>
-    <desc lang="bs">│ Snimanje filma │
-Ako ste veliki ljubitelj Hollywooda i snimanja filmova, emisija "Zoom in" pravi je izbor za vas jer otkriva gledateljima kako se snimaju najveći hollywoodski filmovi. Zavirite zajedno s nama iza kulisa produkcije najpoznatijih filmova i saznajte sve o budžetu, cijeloj ekipi potrebnoj za snimanje i glumcima.</desc>
+  <programme start="20250428141500 +0200" stop="20250428150000 +0200" channel="AXN">
+    <title lang="hr">Novak</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 5 ││ Serija │
+Nije lako početi iz početka, pogotovo za momka kao što je John Nolan, koji dolazi iz malog mjesta, nakon događaja koji mu je promijenio život, kada je pratio svoj san da postane policajac u Los Angelesu. Kao najstariji gušter u službi, neki od njegovih čelnika su puni nevjerice i gledaju na njega kao na nekoga tko je u jeku svoje sredovječne krize. Ne bude li mogao ići ukorak s mladim policajcima i zločincima, riskirat će svoj i tuđe živote. Međutim, bude li mogao da iskoristiti svoje životno iskustvo, požrtvovnost i smisao za humor, to bi mu dalo prednost, zbog kojeg bi mu ovo novo razdoblje života postalo uspješno.</desc>
   </programme>
-  <programme start="20250428060000 +0200" stop="20250428060500 +0200" channel="AMC">
-    <title lang="bs">Zoom In</title>
-    <desc lang="bs">│ Snimanje filma │
-Ako ste veliki ljubitelj Hollywooda i snimanja filmova, emisija "Zoom in" pravi je izbor za vas jer otkriva gledateljima kako se snimaju najveći hollywoodski filmovi. Zavirite zajedno s nama iza kulisa produkcije najpoznatijih filmova i saznajte sve o budžetu, cijeloj ekipi potrebnoj za snimanje i glumcima.</desc>
+  <programme start="20250428150000 +0200" stop="20250428154000 +0200" channel="AXN">
+    <title lang="hr">Novak</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 6 ││ Serija │
+Nije lako početi iz početka, pogotovo za momka kao što je John Nolan, koji dolazi iz malog mjesta, nakon događaja koji mu je promijenio život, kada je pratio svoj san da postane policajac u Los Angelesu. Kao najstariji gušter u službi, neki od njegovih čelnika su puni nevjerice i gledaju na njega kao na nekoga tko je u jeku svoje sredovječne krize. Ne bude li mogao ići ukorak s mladim policajcima i zločincima, riskirat će svoj i tuđe živote. Međutim, bude li mogao da iskoristiti svoje životno iskustvo, požrtvovnost i smisao za humor, to bi mu dalo prednost, zbog kojeg bi mu ovo novo razdoblje života postalo uspješno.</desc>
   </programme>
-  <programme start="20250428060500 +0200" stop="20250428061500 +0200" channel="AMC">
-    <title lang="bs">Zoom In</title>
-    <desc lang="bs">│ Sezona: 1 ││ Epizoda: 151 ││ Snimanje filma │
-Ako ste veliki ljubitelj Hollywooda i snimanja filmova, emisija "Zoom in" pravi je izbor za vas jer otkriva gledateljima kako se snimaju najveći hollywoodski filmovi. Zavirite zajedno s nama iza kulisa produkcije najpoznatijih filmova i saznajte sve o budžetu, cijeloj ekipi potrebnoj za snimanje i glumcima.</desc>
+  <programme start="20250428154000 +0200" stop="20250428162500 +0200" channel="AXN">
+    <title lang="hr">Spasilačka služba</title>
+    <desc lang="hr">│ Sezona: 8 Epizoda: 8 ││ Serija │ Avanturistička │
+Serija prati ekipu kalifornijskih spasioca koji se svakodnevno suočavaju sa brojnim opasnim i stresnim situacijama. Predvodi ih Mitch Buchannon, koji im je također mentor i prijatelj. Osim brojnih kompliciranih spasilačkih zadataka, ekipa se mora nositi i sa privatnim problemima i ljubavnim zavrzlamama.</desc>
   </programme>
-  <programme start="20250428061500 +0200" stop="20250428083500 +0200" channel="AMC">
-    <title lang="bs">Bermudski trokut u Sjevernom moru</title>
-    <desc lang="bs">│ Film ││ Drama / Katastrofa / Akcija / Avantura / Triler │
-"Bermudski trokut u Sjevernom moru" vodi publiku u dramatičan svijet globalnog zatopljenja prouzrokovanog emisijom ugljičnog dioksida i njegovim odlaganjem ispod morskog dna Sjevernog mora, što je u vrijeme klimatskih promjena postalo trend i novčano unosan posao. Ali, je li sigurno.</desc>
+  <programme start="20250428162500 +0200" stop="20250428170500 +0200" channel="AXN">
+    <title lang="hr">Spasilačka služba</title>
+    <desc lang="hr">│ Sezona: 8 Epizoda: 9 ││ Serija │ Avanturistička │
+Serija prati ekipu kalifornijskih spasioca koji se svakodnevno suočavaju sa brojnim opasnim i stresnim situacijama. Predvodi ih Mitch Buchannon, koji im je također mentor i prijatelj. Osim brojnih kompliciranih spasilačkih zadataka, ekipa se mora nositi i sa privatnim problemima i ljubavnim zavrzlamama.</desc>
   </programme>
-  <programme start="20250428083500 +0200" stop="20250428101000 +0200" channel="AMC">
-    <title lang="bs">Hvala za čokoladu</title>
-    <desc lang="bs">│ Film ││ Krimi / Drama / Misterija / Triler │
-Mika, nasljednica švicarske kompanije za proizvodnju čokolade, udana je za proslavljenog pijanista Andréa i maćeha je njegovom sinu Guillaumeu, čija je majka poginula u automobilskoj nesreći na njegov šesti rođendan. Njihove živote prekida neočekivani dolazak Jeanne, mlade žene koja je saznala da su je skoro zamijenili s Guillaumeom pri rođenju.</desc>
+  <programme start="20250428170500 +0200" stop="20250428180000 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 10 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250428101000 +0200" stop="20250428114500 +0200" channel="AMC">
-    <title lang="bs">Beskrajni dan</title>
-    <desc lang="bs">│ Film ││ Drama / Komedija / Fantazija / Romantika │
-Kad zbog oštrih zimskih uvjeta ne može napustiti Punxsutawney u Pennsylvaniji, odakle treba izvijestiti o Festivalu svisca, televizijski meterolog Phil Connors (Bill Murray) postane zarobljen u vremenu i beskrajno ponavlja 2. veljače. Njegov je svijet svaki dan naseljen istim ljudima, ali oni ne znaju da se dan ponavlja, što njemu daje i određenu prednost: može saznati što žena želi od muškarca, pa se "sljedeći dan" ponašati baš tako u njezinoj blizini kako bi je zadivio. Nasreću, s njime radi žena na kojoj to može iskušavati. Ona je Rita (Andie MacDowell), Philova producentica koja već dugo strpljivo trpi njegove ispade, zahtjeve i osornost. Uskoro Phil počne uviđati svoje pogreške i popravljati svoje ponašanje, sve dok ne osvane Sviščev dan na koji joj se on istinu ne svidi.</desc>
+  <programme start="20250428180000 +0200" stop="20250428185500 +0200" channel="AXN">
+    <title lang="hr">Profileri</title>
+    <desc lang="hr">│ Sezona: 5 Epizoda: 11 ││ Serija │ Krimi │
+Chloé Saint-Laurent je profiler i radi s policijskim timom za rješavanje ubojstva u Parizu. Ona je vrlo draga, nosi jako obojenu odjeću i veliku žutu torbu. Izgleda poput djevojčice koja treba lutku, ali je vrlo pametna i jako dobar profiler. Korak po korak, uklopit će se u tim a njezine kolege, u početku jako pridržane, postaju joj najbolji prijatelji.</desc>
   </programme>
-  <programme start="20250428114500 +0200" stop="20250428131000 +0200" channel="AMC">
-    <title lang="bs">Djeca Dine</title>
-    <desc lang="bs">│ Serija ││ Sezona: 1 ││ Epizoda: 1 ││ Avantura / Drama / Fantazija │
-Serija "Djeca Dine" prati nove intrige koje su uslijedile u razdoblju nakon što su vojske Fremena pokorile sve poznate planete. Paulova djeca su zabrinuta zbog činjenice da je njihova tetka postala Izrod i pomišljaju da bi to moglo imati još veće posljedice na njihovu zajednicu.</desc>
+  <programme start="20250428185500 +0200" stop="20250428193500 +0200" channel="AXN">
+    <title lang="hr">Novak</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 7 ││ Serija │
+Nije lako početi iz početka, pogotovo za momka kao što je John Nolan, koji dolazi iz malog mjesta, nakon događaja koji mu je promijenio život, kada je pratio svoj san da postane policajac u Los Angelesu. Kao najstariji gušter u službi, neki od njegovih čelnika su puni nevjerice i gledaju na njega kao na nekoga tko je u jeku svoje sredovječne krize. Ne bude li mogao ići ukorak s mladim policajcima i zločincima, riskirat će svoj i tuđe živote. Međutim, bude li mogao da iskoristiti svoje životno iskustvo, požrtvovnost i smisao za humor, to bi mu dalo prednost, zbog kojeg bi mu ovo novo razdoblje života postalo uspješno.</desc>
   </programme>
-  <programme start="20250428131000 +0200" stop="20250428143500 +0200" channel="AMC">
-    <title lang="bs">Djeca Dine</title>
-    <desc lang="bs">│ Serija ││ Sezona: 1 ││ Epizoda: 2 ││ Avantura / Drama / Fantazija │
-Serija "Djeca Dine" prati nove intrige koje su uslijedile u razdoblju nakon što su vojske Fremena pokorile sve poznate planete. Paulova djeca su zabrinuta zbog činjenice da je njihova tetka postala Izrod i pomišljaju da bi to moglo imati još veće posljedice na njihovu zajednicu.</desc>
+  <programme start="20250428193500 +0200" stop="20250428202000 +0200" channel="AXN">
+    <title lang="hr">Novak</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 8 ││ Serija │
+Nije lako početi iz početka, pogotovo za momka kao što je John Nolan, koji dolazi iz malog mjesta, nakon događaja koji mu je promijenio život, kada je pratio svoj san da postane policajac u Los Angelesu. Kao najstariji gušter u službi, neki od njegovih čelnika su puni nevjerice i gledaju na njega kao na nekoga tko je u jeku svoje sredovječne krize. Ne bude li mogao ići ukorak s mladim policajcima i zločincima, riskirat će svoj i tuđe živote. Međutim, bude li mogao da iskoristiti svoje životno iskustvo, požrtvovnost i smisao za humor, to bi mu dalo prednost, zbog kojeg bi mu ovo novo razdoblje života postalo uspješno.</desc>
   </programme>
-  <programme start="20250428143500 +0200" stop="20250428155500 +0200" channel="AMC">
-    <title lang="bs">Djeca Dine</title>
-    <desc lang="bs">│ Serija ││ Sezona: 1 ││ Epizoda: 3 ││ Avantura / Drama / Fantazija │
-Serija "Djeca Dine" prati nove intrige koje su uslijedile u razdoblju nakon što su vojske Fremena pokorile sve poznate planete. Paulova djeca su zabrinuta zbog činjenice da je njihova tetka postala Izrod i pomišljaju da bi to moglo imati još veće posljedice na njihovu zajednicu.</desc>
+  <programme start="20250428202000 +0200" stop="20250428210000 +0200" channel="AXN">
+    <title lang="hr">MacGyver</title>
+    <desc lang="hr">│ Sezona: 3 Epizoda: 9 ││ Serija │ Akcija │
+Nakon što je odlučio napustiti Zakladu Feniks kako bi se preselio u Nigeriju, MacGyver mijenja svoje planove kada sazna da je njegov prijatelj Jack u opasnosti. Pronalazi svoje bivše suradnike i pristaje se vratiti u službu kako bi sudjelovao u misijama koje iziskuju njegovu snalažljivost i inteligenciju. Mac se ponovo susreće s Murdocom, svojim dugogodišnjim suparnikom.</desc>
   </programme>
-  <programme start="20250428155500 +0200" stop="20250428174000 +0200" channel="AMC">
-    <title lang="bs">Smaragdno zeleno</title>
-    <desc lang="bs">│ Film ││ Avantura / Obitelj / Fantazija / Drama │
-Adaptacija završnog dijela poznate trilogije o putovanju kroz vrijeme. Gwendolynino srce je slomljeno, hoće li ponovno vjerovati Gideonu? Nema vremena za plakanje. Dogodi se nešto nevjerojatno te se ona nađe u utrci s vremenom.</desc>
+  <programme start="20250428210000 +0200" stop="20250428214000 +0200" channel="AXN">
+    <title lang="hr">Nezaboravna</title>
+    <desc lang="hr">│ Sezona: 4 Epizoda: 5 ││ Serija │ Krimi │
+Carrie Wells je bivša policijska detektivka koja ima rijetku sposobnost. Njezino rijetko medicinsko stanje omogućuje joj zapamtiti gotovo sve što je doživjela i vizualno se prisjetiti istoga. Vraća se na policijski posao i koristi svoju sposobnost kako bi riješila brojne slučajeve ubojstava. Međutim, postoji jedan slučaj koji joj je najvažniji. To je ubojstvo njezine sestre...</desc>
   </programme>
-  <programme start="20250428174000 +0200" stop="20250428200000 +0200" channel="AMC">
-    <title lang="bs">Robin Hood: Princ lopova</title>
-    <desc lang="bs">│ Film ││ Drama / Romantika / Akcija │
-Legenda o Robinu Hoodu jedna je od najpoznatijih u Engleskoj, a film "Robin Hood: Princ lopova" objašnjava i zašto. Nakon što Robin biva zarobljen tijekom križarskoga rata, zajedno s Azeemom uspijeva pobjeći u Englesku. U međuvremenu saznaje da je njegov otac ubijen što u Robinu izaziva bijes i želju za osvetom. Bježi u šumu gdje postaje vođa prognanih seljaka..</desc>
+  <programme start="20250428214000 +0200" stop="20250428222500 +0200" channel="AXN">
+    <title lang="hr">Bolnica nade</title>
+    <desc lang="hr">│ Sezona: 3 Epizoda: 17 ││ Serija │ Dramska │
+Na putu za vjenčanje sa svojim kolegom Alexom Reidom, Charlie Harris, glavni kirurg jedne bolnice u Torontu, doživi tešku prometnu nesreću i padne u komu. Dok ga njegovi kolege pokušavaju vratiti u život, Charlie shvati da je svjestan svega oko sebe. Također spozna da može komunicirati sa umovima drugih pacijenata u komi.</desc>
   </programme>
-  <programme start="20250428200000 +0200" stop="20250428212500 +0200" channel="AMC">
-    <title lang="bs">Elektra</title>
-    <desc lang="bs">│ Film ││ Avantura / Fantazija / Krimi / Akcija │
-Nakon što je iz smrti vrati slijepi majstor borilačkih vještina, Elektra neko vrijeme provodi usvajajući borilačku vještinu Kimagure. Zbog neriješenih stvari iz prošlosti, Elektra ipak napušta svog učitelja kako bi postala plaćeni ubica.</desc>
+  <programme start="20250428222500 +0200" stop="20250428230500 +0200" channel="AXN">
+    <title lang="hr">MacGyver</title>
+    <desc lang="hr">│ Sezona: 3 Epizoda: 9 ││ Serija │ Akcija │
+Nakon što je odlučio napustiti Zakladu Feniks kako bi se preselio u Nigeriju, MacGyver mijenja svoje planove kada sazna da je njegov prijatelj Jack u opasnosti. Pronalazi svoje bivše suradnike i pristaje se vratiti u službu kako bi sudjelovao u misijama koje iziskuju njegovu snalažljivost i inteligenciju. Mac se ponovo susreće s Murdocom, svojim dugogodišnjim suparnikom.</desc>
   </programme>
-  <programme start="20250428212500 +0200" stop="20250428230000 +0200" channel="AMC">
-    <title lang="bs">Abraham Linkoln: Lovac na vampire</title>
-    <desc lang="bs">│ Film ││ Horor / Akcija / Fantazija / Vestern │
-Predsjednik Abraham Lincoln, svuda slavljen jer je sačuvao Uniju i oslobodio robove, ima skrivene motive iza svog odlučnog uspona na vlast: boriti se protiv sila nemrtvih. Otkako su mu kao dječaku majku ubili vampiri, Lincoln je posvijetio život namjeri da liši naciju vampira koji su gotovo razorili Sjedinjene Države tokom Građanskog rata.</desc>
+  <programme start="20250428230500 +0200" stop="20250428235000 +0200" channel="AXN">
+    <title lang="hr">Navy CIS</title>
+    <desc lang="hr">│ Sezona: 19 Epizoda: 4 ││ Serija │ Krimi │
+NCIS američka je serija o ekipi specijalnih agenata koji traže odgovore na pitanja vezano uz počinjene zločine. U razotkrivanju misterija često im pomaže ostatak kriminalističke službe: forenzički stručnjaci, psiholozi itd. Pratite uzbudljive trenutke ove serije i saznajte jesu li istraženi svi zločini koji su na bilo koji način povezani s marincima ili mornaricom.</desc>
   </programme>
-  <programme start="20250428230000 +0200" stop="20250429003000 +0200" channel="AMC">
-    <title lang="bs">Usamljeni zaštitnik</title>
-    <desc lang="bs">│ Film ││ Krimi / Drama / Akcija / Romantika / Triler │
-Nakon bijega iz zatvora, Sam Gillen traži mjesto za skrivanje. Mladu udovicu Clydie muči prijetnja korumpiranih građevinara. Kada se Sam sprijatelji s Clydeovim sinom Mookiejem, on se počne povezivati s obitelji i pronalazi novu svrhu u životu, odlučujući se boriti da ih zaštiti.</desc>
+  <programme start="20250428235000 +0200" stop="20250429003000 +0200" channel="AXN">
+    <title lang="hr">MacGyver</title>
+    <desc lang="hr">│ Sezona: 3 Epizoda: 9 ││ Serija │ Akcija │
+Nakon što je odlučio napustiti Zakladu Feniks kako bi se preselio u Nigeriju, MacGyver mijenja svoje planove kada sazna da je njegov prijatelj Jack u opasnosti. Pronalazi svoje bivše suradnike i pristaje se vratiti u službu kako bi sudjelovao u misijama koje iziskuju njegovu snalažljivost i inteligenciju. Mac se ponovo susreće s Murdocom, svojim dugogodišnjim suparnikom.</desc>
+  </programme>
+  <programme start="20250429003000 +0200" stop="20250429011500 +0200" channel="AXN">
+    <title lang="hr">Bolnica nade</title>
+    <desc lang="hr">│ Sezona: 3 Epizoda: 17 ││ Serija │ Dramska │
+Na putu za vjenčanje sa svojim kolegom Alexom Reidom, Charlie Harris, glavni kirurg jedne bolnice u Torontu, doživi tešku prometnu nesreću i padne u komu. Dok ga njegovi kolege pokušavaju vratiti u život, Charlie shvati da je svjestan svega oko sebe. Također spozna da može komunicirati sa umovima drugih pacijenata u komi.</desc>
+  </programme>
+  <programme start="20250429011500 +0200" stop="20250429033000 +0200" channel="AXN">
+    <title lang="hr">Zločesti dečki 2</title>
+    <desc lang="hr">│ Film │ Akcija │
+Film "Zločesti dečki 2" donosi priču o dvojici policajaca, Mikeu Lowreyju (Will Smith) i Marcusu Burnettu (Martin Lawrence) koji vode istragu o pojavljivanju droge, točnije ecstasyja u Miamiju. Istraživajući svoj zadatak, došli su do opasnog narkobosa koji drži pod kontrolom sva trgovanja drogom. Da stvar bude kompliciranija, Marcusova sestra Syd koja je agentica također ima svoj tajni zadatak...</desc>
+  </programme>
+  <programme start="20250429033000 +0200" stop="20250429041500 +0200" channel="AXN">
+    <title lang="hr">Novak</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 7 ││ Serija │
+Nije lako početi iz početka, pogotovo za momka kao što je John Nolan, koji dolazi iz malog mjesta, nakon događaja koji mu je promijenio život, kada je pratio svoj san da postane policajac u Los Angelesu. Kao najstariji gušter u službi, neki od njegovih čelnika su puni nevjerice i gledaju na njega kao na nekoga tko je u jeku svoje sredovječne krize. Ne bude li mogao ići ukorak s mladim policajcima i zločincima, riskirat će svoj i tuđe živote. Međutim, bude li mogao da iskoristiti svoje životno iskustvo, požrtvovnost i smisao za humor, to bi mu dalo prednost, zbog kojeg bi mu ovo novo razdoblje života postalo uspješno.</desc>
+  </programme>
+  <programme start="20250429041500 +0200" stop="20250429045500 +0200" channel="AXN">
+    <title lang="hr">Novak</title>
+    <desc lang="hr">│ Sezona: 2 Epizoda: 8 ││ Serija │
+Nije lako početi iz početka, pogotovo za momka kao što je John Nolan, koji dolazi iz malog mjesta, nakon događaja koji mu je promijenio život, kada je pratio svoj san da postane policajac u Los Angelesu. Kao najstariji gušter u službi, neki od njegovih čelnika su puni nevjerice i gledaju na njega kao na nekoga tko je u jeku svoje sredovječne krize. Ne bude li mogao ići ukorak s mladim policajcima i zločincima, riskirat će svoj i tuđe živote. Međutim, bude li mogao da iskoristiti svoje životno iskustvo, požrtvovnost i smisao za humor, to bi mu dalo prednost, zbog kojeg bi mu ovo novo razdoblje života postalo uspješno.</desc>
+  </programme>
+  <programme start="20250429045500 +0200" stop="20250429060000 +0200" channel="AXN">
+    <title lang="hr">Spasilačka služba</title>
+    <desc lang="hr">│ Sezona: 8 Epizoda: 8 ││ Serija │ Avanturistička │
+Serija prati ekipu kalifornijskih spasioca koji se svakodnevno suočavaju sa brojnim opasnim i stresnim situacijama. Predvodi ih Mitch Buchannon, koji im je također mentor i prijatelj. Osim brojnih kompliciranih spasilačkih zadataka, ekipa se mora nositi i sa privatnim problemima i ljubavnim zavrzlamama.</desc>
   </programme>
 </tv>
